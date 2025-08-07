@@ -14,6 +14,10 @@ The dataset contains two classes of cell images:
 Dataset source: [https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria] 
 Or if hosted locally, place it in a folder like: `cell_images/Parasitized`, `cell_images/Uninfected`
 
+## ‼️ Note
+
+The dataset have hidden folder named cell_images.Make sure to follow the code exactly if running on Kaggle.
+
 ---
 
 ## 🧠 Model
