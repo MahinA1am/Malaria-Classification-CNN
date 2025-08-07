@@ -35,14 +35,7 @@ Or if hosted locally, place it in a folder like: `cell_images/Parasitized`, `cel
 ---
 
 📁 Project Structure
-Malaria-Cell-Detection/
-├── malaria.ipynb              # Main Jupyter notebook
-├── cell_images/               # Dataset directory
-│   ├── Parasitized/
-│   └── Uninfected/
-├── LICENSE
-└── README.md
-
+<pre> Malaria-Cell-Detection/ │ ├── malaria.ipynb # Main Jupyter Notebook ├── requirements.txt # Dependencies for the project ├── LICENSE # Open-source license (MIT) ├── README.md # This file │ └── cell_images/ # Dataset folder (NIH Malaria dataset) ├── Parasitized/ └── Uninfected/ </pre>
 
 ## 🚀 How to Run
 
